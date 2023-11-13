@@ -1,0 +1,5 @@
+pybind11
+ortools
+python-sat
+galois
+numpy
